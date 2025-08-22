@@ -1,3 +1,3 @@
 print("holi")
 print("chao")
-print("Tralalero Tralala")
+print("Clase de Frontend")
